@@ -1,3 +1,5 @@
+// Tristan Filhol, ensci les ateliers, gpl 2014
+
 import processing.pdf.*;
 
 boolean record = false;           //false : ça mouline
