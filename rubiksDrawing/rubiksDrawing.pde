@@ -1,8 +1,7 @@
+//Nicolas Peugnet
 color red = color(255, 0, 0);  //Definition des 6 couleurs
 color green = color(0, 200, 0);
 color blue = color(50, 50, 200);
-//Nicolas Peugnet
-
 color yellow = color(255, 255, 0);
 color orange = color(255, 180, 0);
 color white = color(255, 255, 255);
